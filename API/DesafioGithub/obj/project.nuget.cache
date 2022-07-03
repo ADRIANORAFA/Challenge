@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "E3qSzRZKtrD/TEVwyYUCz2qJ226QGd7KXjg2XChWOzXEyL/bjph5QGJcK45l55mqaLacBmG61T1u5g57SnrKYA==",
+  "dgSpecHash": "9dBawHYlNs8fFhilvSt3wWgCGzhAGf9Dr9QT0AYDhxhIBaiXC7z8Z2+fid+6Ujer5n5ipLfMayp2aTTjr1I0lw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\adriano.alves\\Desktop\\PROGRAMA ADRIANO\\TesteAtuakl\\DesafioGithub\\DesafioGithub\\DesafioGithub.csproj",
+  "projectFilePath": "C:\\Users\\adriano.alves\\Desktop\\PROGRAMA ADRIANO\\DESAFIO\\API\\DesafioGithub\\DesafioGithub.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\adriano.alves\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\adriano.alves\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\adriano.alves\\Desktop\\PROGRAMA ADRIANO\\TesteAtuakl\\DesafioGithub\\DesafioGithub\\DesafioGithub.csproj": {}
+    "C:\\Users\\adriano.alves\\Desktop\\PROGRAMA ADRIANO\\DESAFIO\\API\\DesafioGithub\\DesafioGithub.csproj": {}
   },
   "projects": {
-    "C:\\Users\\adriano.alves\\Desktop\\PROGRAMA ADRIANO\\TesteAtuakl\\DesafioGithub\\DesafioGithub\\DesafioGithub.csproj": {
+    "C:\\Users\\adriano.alves\\Desktop\\PROGRAMA ADRIANO\\DESAFIO\\API\\DesafioGithub\\DesafioGithub.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\adriano.alves\\Desktop\\PROGRAMA ADRIANO\\TesteAtuakl\\DesafioGithub\\DesafioGithub\\DesafioGithub.csproj",
+        "projectUniqueName": "C:\\Users\\adriano.alves\\Desktop\\PROGRAMA ADRIANO\\DESAFIO\\API\\DesafioGithub\\DesafioGithub.csproj",
         "projectName": "DesafioGithub",
-        "projectPath": "C:\\Users\\adriano.alves\\Desktop\\PROGRAMA ADRIANO\\TesteAtuakl\\DesafioGithub\\DesafioGithub\\DesafioGithub.csproj",
+        "projectPath": "C:\\Users\\adriano.alves\\Desktop\\PROGRAMA ADRIANO\\DESAFIO\\API\\DesafioGithub\\DesafioGithub.csproj",
         "packagesPath": "C:\\Users\\adriano.alves\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\adriano.alves\\Desktop\\PROGRAMA ADRIANO\\TesteAtuakl\\DesafioGithub\\DesafioGithub\\obj\\",
+        "outputPath": "C:\\Users\\adriano.alves\\Desktop\\PROGRAMA ADRIANO\\DESAFIO\\API\\DesafioGithub\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
