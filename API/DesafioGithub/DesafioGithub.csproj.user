@@ -5,5 +5,6 @@
   </PropertyGroup>
   <PropertyGroup>
     <ActiveDebugProfile>DesafioGithub</ActiveDebugProfile>
+    <NameOfLastUsedPublishProfile>C:\Users\adriano.alves\Desktop\PROGRAMADRIANO\DESAFIO\API\DesafioGithub\Properties\PublishProfiles\_Dockerfile_.azurecr.io.pubxml</NameOfLastUsedPublishProfile>
   </PropertyGroup>
 </Project>

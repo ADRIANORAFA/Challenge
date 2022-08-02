@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "9dBawHYlNs8fFhilvSt3wWgCGzhAGf9Dr9QT0AYDhxhIBaiXC7z8Z2+fid+6Ujer5n5ipLfMayp2aTTjr1I0lw==",
+  "dgSpecHash": "a/dYG0KrHtrPE+9RVqpAR8R2Ltgcz0XqJdn1T0p64nRR1Sxas+1GfDF5IueSQhMCl51jOwDArvi82MJ+/O3/Mw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\adriano.alves\\Desktop\\PROGRAMA ADRIANO\\DESAFIO\\API\\DesafioGithub\\DesafioGithub.csproj",
+  "projectFilePath": "C:\\Users\\adriano.alves\\Desktop\\PROGRAMADRIANO\\DESAFIO\\API\\DesafioGithub\\DesafioGithub.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\adriano.alves\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\adriano.alves\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\adriano.alves\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.15.1\\microsoft.visualstudio.azure.containers.tools.targets.1.15.1.nupkg.sha512",
     "C:\\Users\\adriano.alves\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\adriano.alves\\.nuget\\packages\\nuget.common\\6.2.1\\nuget.common.6.2.1.nupkg.sha512",
     "C:\\Users\\adriano.alves\\.nuget\\packages\\nuget.configuration\\6.2.1\\nuget.configuration.6.2.1.nupkg.sha512",
